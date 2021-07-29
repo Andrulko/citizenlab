@@ -1,10 +1,6 @@
 files:
   - source: /front/app/translations/en.json
-    translation: /front/app/translations/%locale%.json
-    languages_mapping:
-      locale:
-        en: en
-        nb: nb-NO
+    translation: /front/app/translations/%two_letters_code%.json
     update_option: update_without_changes
   - source: /back/config/locales/en.yml
     translation: /back/config/locales/%locale%.yml

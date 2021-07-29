@@ -56,8 +56,8 @@ it:
     community_description: Community development
     services: Public services
     services_description: Public services
-    other: Other
-    other_description: Other
+    other: Altro
+    other_description: Altro
   pages:
     terms_and_conditions_title: Terms & conditions
     terms_and_conditions_body: >
@@ -108,7 +108,7 @@ it:
         title: Title
         description:
       body:
-        title: Description
+        title: Descrizione
         description:
       topic_ids:
         title: Topics
@@ -123,13 +123,13 @@ it:
         title: Images
         description:
       attachments:
-        title: Attachments
+        title: Allegati
         description:
   custom_field_options:
     gender:
       male: Male
       female: Female
-      unspecified: Other
+      unspecified: Altro
     domicile:
       outside: Somewhere else
     education:
